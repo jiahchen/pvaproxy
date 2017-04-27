@@ -1,0 +1,18 @@
+{
+  "esversion": 6,
+  "boss": true,
+  "curly": true,
+  "eqeqeq": true,
+  "node": true,
+  "unused": true,
+  "undef": true,
+  "mocha": true,
+  "jquery": true,
+  "browser": true,
+  "globals":{
+    "angular": true,
+    "toastr": true,
+    "alert": true,
+    "swal": true
+  }
+}
