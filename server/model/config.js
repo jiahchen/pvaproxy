@@ -15,7 +15,7 @@ const config = {
     wechat: 'opt67',
   },
   APIKEY: '6XDqN27EixXLCdITdZOnz0slRXUrQW',
-  customAPIKEY: '1234567',
+  customAPIKEY: 'b25fcf52-67e0-4c5f-a3f4-b4567f7fd481',
 };
 
 module.exports = config;
